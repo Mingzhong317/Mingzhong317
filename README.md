@@ -1,7 +1,6 @@
 # Hi there, I'm Ming-Zhong Fan 👋
 
-一位專注於 **電腦視覺 (Computer Vision)** 與 **人工智慧應用 (AI Application)** 的資訊管理所畢業生。
-具備模型研發（YOLO, GAN, Diffusion Models）的完整開發經驗。
+資訊管理碩士 (MIS) | 專注於電腦視覺與生成式 AI (CV & Generative AI)
 
 ---
 
